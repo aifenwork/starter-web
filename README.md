@@ -17,3 +17,5 @@ This is a simple web project.
 Pls fork this repo and issue pull requests for review.
 
 ## Copyright
+
+All rights reserved.
